@@ -13,7 +13,7 @@
 
 * To use the emergency SOS feature, press and hold the power button for three seconds.
 * To use the panic button, press the panic button.
-* To use the silent alarm, press and hold the silent alarm button.
+* To use the Basic Laws & Self Defence click on the button.
 * To use the personal safety features, open the app and select the desired feature.
 
 ## Customization
